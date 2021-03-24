@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java-ci-pipeline:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_ci_pipeline_jar</output-path>
+    <root id="archive" name="Java-ci-pipeline.jar">
+      <element id="module-output" name="Java-ci-pipeline" />
+    </root>
+  </artifact>
+</component>
